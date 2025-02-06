@@ -1,0 +1,12 @@
+[
+    {
+        "username": "fakeUser1",
+        "password": "password",
+        "tasks": []
+    },
+    {
+        "username": "seconFakeUser",
+        "password": "password",
+        "tasks": []
+    }
+]
