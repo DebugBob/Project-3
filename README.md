@@ -10,7 +10,7 @@ A dashboard where you could save information about your tasks, get daily details
 - React
 - MongoDB
 - GraphQL
-- Authentication
-
+- JWT/BCrypt
+- Express
 
 [Deployment Link]()
